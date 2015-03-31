@@ -1,0 +1,9 @@
+03-30 16:21:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MEMBERS" already exists; SQL statement:
+
+    create table members (
+      id serial not null primary key,
+      name varchar(64),
+      created_at timestamp not null
+    )
+     [42101-186]
