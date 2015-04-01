@@ -18,6 +18,8 @@ interact with a database using a database library.
 
 [zip]: https://github.com/umass-cs-220/week-10-databases/archive/master.zip
 
+**Note:** when you run `h2` you need to make sure that the JDBC URL is `jdbc:h2:./users` so that it connects to the proper database in the `dbs` directory.
+
 ## Readings
 
 * [SQL notes](notes/relational.md), Tim Richards
