@@ -14,6 +14,10 @@ and writing queries in SQL to store and retrieve data contained in a
 database. In addition, we will investigate how to write programs that
 interact with a database using a database library.
 
+*To get access to this material [download][zip] the zip archive.*
+
+[zip]: https://github.com/umass-cs-220/week-10-databases/archive/master.zip
+
 ## Readings
 
 * [SQL notes](notes/relational.md), Tim Richards
