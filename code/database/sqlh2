@@ -1,0 +1,11 @@
+#! /bin/bash
+
+# This is a simple script for running the command line
+# console interface to H2. Once you are have the console
+# running you can run SQL statements stored in a file
+# using this command:
+#
+# sql> runscript from 'sql/users.sql'
+#
+
+java -cp ../../lib/h2-1.4.186.jar org.h2.tools.Shell
