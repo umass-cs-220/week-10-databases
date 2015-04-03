@@ -1,4 +1,4 @@
-name := "anorm"
+name := "database"
 
 organization := "timdrichards"
 
